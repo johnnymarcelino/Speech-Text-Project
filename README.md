@@ -1,2 +1,2 @@
 # Speech-Text-Project
-A speech text project in .NET framework
+A speech text project .NET framework
