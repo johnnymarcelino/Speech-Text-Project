@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JuIybNrhyQ+R1YIIMY7o04zEoiuLUyx8tySA6LfcEccXEsVMR2FaQJpNvCVGvPSFmszNTfiqdNiGpufX0w4JAA==",
+  "success": true,
+  "projectFilePath": "C:\\BackEnd\\C#\\ProjectsAPI\\SpeechText\\Speech-Text-Project\\Speech-Text-Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johnn\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.25.0\\microsoft.cognitiveservices.speech.1.25.0.nupkg.sha512"
+  ],
+  "logs": []
+}
